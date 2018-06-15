@@ -1,0 +1,11 @@
+C:\Users\Owner\codefellows\401\Lab08-LINQ\Lab08-Linq\bin\Debug\netcoreapp2.1\Lab08-Linq.deps.json
+C:\Users\Owner\codefellows\401\Lab08-LINQ\Lab08-Linq\bin\Debug\netcoreapp2.1\Lab08-Linq.runtimeconfig.json
+C:\Users\Owner\codefellows\401\Lab08-LINQ\Lab08-Linq\bin\Debug\netcoreapp2.1\Lab08-Linq.runtimeconfig.dev.json
+C:\Users\Owner\codefellows\401\Lab08-LINQ\Lab08-Linq\bin\Debug\netcoreapp2.1\Lab08-Linq.dll
+C:\Users\Owner\codefellows\401\Lab08-LINQ\Lab08-Linq\bin\Debug\netcoreapp2.1\Lab08-Linq.pdb
+C:\Users\Owner\codefellows\401\Lab08-LINQ\Lab08-Linq\obj\Debug\netcoreapp2.1\Lab08-Linq.csprojAssemblyReference.cache
+C:\Users\Owner\codefellows\401\Lab08-LINQ\Lab08-Linq\obj\Debug\netcoreapp2.1\Lab08-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Owner\codefellows\401\Lab08-LINQ\Lab08-Linq\obj\Debug\netcoreapp2.1\Lab08-Linq.AssemblyInfoInputs.cache
+C:\Users\Owner\codefellows\401\Lab08-LINQ\Lab08-Linq\obj\Debug\netcoreapp2.1\Lab08-Linq.AssemblyInfo.cs
+C:\Users\Owner\codefellows\401\Lab08-LINQ\Lab08-Linq\obj\Debug\netcoreapp2.1\Lab08-Linq.dll
+C:\Users\Owner\codefellows\401\Lab08-LINQ\Lab08-Linq\obj\Debug\netcoreapp2.1\Lab08-Linq.pdb
